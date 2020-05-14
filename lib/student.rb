@@ -9,7 +9,7 @@ class Student < User
   end
   
   def self.knowledge
-    @knowledge(string)
+    @knowledge
   end
 
 end
